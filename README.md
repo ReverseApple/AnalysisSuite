@@ -10,6 +10,3 @@
   * Frida
   * etc.
 * Small, specialized and standalone software for static/dynamic analysis of Apple binaries.
-
-## Planned
-* Recursive framework dependency graph generator.
